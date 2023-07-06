@@ -1,0 +1,38 @@
+.ecternal {
+  text-shadow: aquamarine;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: justify;
+}
+.text {
+  width: 500px;
+  height: 200px;
+  background-color: orange;
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: capitalize;
+  text-align: center;
+  text-decoration: underline;
+}
+.para {
+  height: 300px;
+  width: 400px;
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+}
+.anchor {
+  text-decoration: none;
+}
+#first {
+  color: red;
+}
+h3 {
+  text-align: center;
+  color: purple;
+}
+#second {
+  font-family: "Courier New", Courier, monospace;
+}
